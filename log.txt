@@ -1,0 +1,56 @@
+En este archivo txt se almacena todos los logs realizados en este repositorio.
+
+<<<<<<< HEAD
+commit 872b47808dedd807773eb33b6d2285ba2626a185 (HEAD -> master, origin/master)
+Merge: b0788b4 2badd4a
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 12:46:44 2021 -0500
+
+    Merge branch 'master' of https://github.com/Chava27/Actividad_04
+    Add log.txt
+
+commit b0788b4ce941566c0b070aadf92a8719303cb63e
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 12:45:30 2021 -0500
+
+    Archivo log
+
+commit 2badd4a18f804b6a60004ccdb9c502a2549a6a5b (origin/rama_jorge)
+Author: Jorge-TL <a01367223@itesm.mx>
+Date:   Fri May 7 12:21:23 2021 -0500
+
+    Cambios Jorge
+
+commit fd991265a508cd64c3c2e25a3768892e0ca4c9f5 (origin/Rama_Chava27, Rama_Chava27)
+Author: Chava27 <chavasalgado27@gmail.com>
+=======
+commit 2badd4a18f804b6a60004ccdb9c502a2549a6a5b (HEAD -> master, origin/rama_jorge, origin/master, rama_jorge)
+Author: Jorge-TL <a01367223@itesm.mx>
+Date:   Fri May 7 12:21:23 2021 -0500
+
+    Cambios Jorge
+
+commit fd991265a508cd64c3c2e25a3768892e0ca4c9f5 (origin/Rama_Chava27)
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 11:29:47 2021 -0500
+
+    Background Color
+
+commit 2f79717aa8606207f755439786be41fc98710166
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 10:42:28 2021 -0500
+
+    Modificación Tamaño y loop de Juego
+
+commit c90efbb854526dc046d97a7b186db30873863a0d
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 09:35:44 2021 -0500
+
+    Cambio de velocidad y colores
+
+commit 338c757d9df871315d64629a96083e36082408bf
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 09:23:51 2021 -0500
+
+    Rama Master CODE V1
+>>>>>>> cee54d3124f8049be6852a2aedb68235c20d491e
